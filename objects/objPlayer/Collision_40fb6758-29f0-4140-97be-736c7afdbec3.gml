@@ -1,0 +1,1 @@
+x = objDoorGreen.x + bboxRightOffset-10;

@@ -1,0 +1,1 @@
+btn_activated = false;

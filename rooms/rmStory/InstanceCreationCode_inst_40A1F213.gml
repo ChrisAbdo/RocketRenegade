@@ -1,0 +1,2 @@
+text = "In a desolate world, one man with his trusty rocket launcher fights off enemies as he advances through various environments to reach \"The End\". Hone your skills as you platform and rocket jump around the stage to complete sections as fast as possible. Blast, jump, and run your way through obstacles and embrace the rocketfire rush!"
+font = global.menuFontTiny
